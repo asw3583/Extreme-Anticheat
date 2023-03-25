@@ -4,7 +4,9 @@
 cfg에서 실행시켜주면 됩니다.
 
 ensure Extreme-Anticheat-Master
+
 ensure discord-screenshot
+
 ensure screenshot-basic
 
 ## 필독
