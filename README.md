@@ -6,7 +6,9 @@ FIVEM 전용 안티치트 입니다.
 cfg에서 실행시켜주면 됩니다.
 
 ensure Extreme-Anticheat-Master
+
 ensure discord-screenshot
+
 ensure screenshot-basic
 
 필독
