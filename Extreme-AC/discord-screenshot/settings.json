@@ -1,0 +1,11 @@
+{
+  "webhookUrl": "https://discord.com/api/webhooks/1079835745474334720/hrbN34UAI9zsMsGB14EIsZkU-meNnGkEQKwOPm_71l5mYLJYmvy_gZ7zt8QZEYv2wqyK",
+  "framework": "none",
+  "commandName": "screenshot",
+  "commandPermission": "request.screenshot",
+  "hiddenIdentifiers": [],
+  "screenshotOptions": {
+    "encoding": "png",
+    "quality": 1
+  }
+}
